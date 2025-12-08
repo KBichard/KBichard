@@ -6,7 +6,7 @@ I'm currently pursuing a Master's in Data Science at the University of West Flor
 Tools & Skills
 - **Languages:** Python, R, SQL
 - **Libraries:** pandas, NumPy, matplotlib, scikit-learn, ggplot2, dplyr
-- **Tools:** SQL, Tableau, RStudio, SAS, SalesForce
+- **Tools:** SQL, Tableau, RStudio, SAS, SalesForce, Jira
 
 **Featured Projects**
 
