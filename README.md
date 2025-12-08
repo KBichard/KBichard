@@ -18,6 +18,13 @@ Interactive dashboard analyzing internal control failures, company effectiveness
 SQL project analyzing real financial aid department data, performing joins, aggregations, and scenario-based queries.  
 **Repo:** https://github.com/KBichard/financial-aid-sql-analysis
 
+**Jira Agile Project Simulation — Data Science Workflow**  
+Simulated Agile Scrum project demonstrating Jira workflow planning, sprint organization, backlog prioritization, and task documentation for a data-science-focused initiative involving remaining balance forecasting and risk segmentation.
+
+**Skills Demonstrated:** Jira, Agile Scrum, Sprint Planning, Backlog Grooming, Task Tracking  
+**Focus:** Documenting the lifecycle and structure of a typical machine learning project  
+**Repo:** https://github.com/KBichard/balance-forecasting-optimization-Jira
+
 ---
 
 **Connect With Me**
