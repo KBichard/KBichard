@@ -21,7 +21,7 @@ SQL project analyzing real financial aid department data, performing joins, aggr
 ---
 
 **Connect With Me**
-- **LinkedIn:** *(Add your profile link here)*  
+- **LinkedIn:** https://www.linkedin.com/in/kurtis-bichard/
 - **GitHub:** https://github.com/KBichard  
 
 Always exploring new data projects—open to collaboration, learning opportunities, and analytics or data science internships.
