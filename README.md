@@ -1,34 +1,56 @@
-# KurtisBichard
-Welcome to my portfolio! Aspiring Data Scientist with a passion for machine learning, analytics, and applications to problem solving real-world issues with data, code, and statistics!
+# Kurtis Bichard
 
-I'm currently pursuing a Master's in Data Science at the University of West Florida with a focus on business decision-making. I’m passionate about building data-driven solutions that make an impact.
+Data Analyst specializing in SQL, automation, and data quality.  
+Experience building ETL pipelines, validation workflows, and scalable data solutions across large datasets.
 
-Tools & Skills
-- **Languages:** Python, R, SQL
-- **Libraries:** pandas, NumPy, matplotlib, scikit-learn, ggplot2, dplyr
-- **Tools:** SQL, Tableau, RStudio, SAS, SalesForce, Jira
+## 🔧 Skills
+- **Languages:** SQL, Python, R  
+- **Tools:** PowerShell, Tableau, Excel, Power BI  
+- **Focus Areas:** ETL, Data Quality, Automation, Data Validation
 
-**Featured Projects**
+## 🚀 Featured Projects
 
-**Industry Analytics (Tableau Dashboard)**
-Interactive dashboard analyzing internal control failures, company effectiveness, and earnings trends across U.S. market exchanges.  
-**View Dashboard:** https://public.tableau.com/views/IndustryAnalytics_17631697369040/IndustryAnalytics
+### County Recording Date Pipeline (SQL + PowerShell)
+Automated ETL pipeline that detects county record updates, processes documents with OCR, and extracts structured data.  
+- Built SQL queries to identify new records  
+- Automated workflows using PowerShell  
+- Reduced manual QA and improved data reliability  
 
-**Financial Aid SQL Analysis**
-SQL project analyzing real financial aid department data, performing joins, aggregations, and scenario-based queries.  
-**Repo:** https://github.com/KBichard/financial-aid-sql-analysis
-
-**Jira Agile Project Simulation — Data Science Workflow**  
-Simulated Agile Scrum project demonstrating Jira workflow planning, sprint organization, backlog prioritization, and task documentation for a data-science-focused initiative involving remaining balance forecasting and risk segmentation.
-
-**Skills Demonstrated:** Jira, Agile Scrum, Sprint Planning, Backlog Grooming, Task Tracking  
-**Focus:** Documenting the lifecycle and structure of a typical machine learning project  
-**Repo:** https://github.com/KBichard/balance-forecasting-optimization-Jira
+🔗 https://github.com/KBichard/county-recording-date-pipeline  
 
 ---
 
-**Connect With Me**
-- **LinkedIn:** https://www.linkedin.com/in/kurtis-bichard/
-- **GitHub:** https://github.com/KBichard  
+### SQL Data Quality Audit (Missing Sequence Detection)
+T-SQL project identifying missing sequential records across large datasets.  
+- Multi-database querying and dynamic SQL  
+- Gap detection using set-based logic (EXCEPT)  
+- Designed for QA reporting and validation workflows  
 
-Always exploring new data projects—open to collaboration, learning opportunities, and analytics or data science internships.
+🔗 https://github.com/KBichard/SQL-Missing-Maps-Master-Audit  
+
+---
+
+### Industry Analytics Dashboard (Tableau)
+Interactive dashboard analyzing internal control failures and earnings trends.  
+- Built visualizations including heat maps and time-series charts  
+- Transformed raw data into actionable insights  
+
+🔗 https://public.tableau.com/views/IndustryAnalytics_17631697369040/IndustryAnalytics  
+
+---
+
+## 📈 Experience Highlights
+- Automated data validation workflows across **80+ counties**  
+- Processed and audited **3,000–5,000+ records daily**  
+- Reduced manual QA through SQL-driven automation  
+- Built structured queries to support reporting and dashboards  
+
+---
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/kurtis-bichard/  
+- GitHub: https://github.com/KBichard  
+
+---
+
+Open to data analyst and analytics-focused roles (SQL, ETL, data quality, automation).
