@@ -1,56 +1,84 @@
-# Kurtis Bichard
+# Hi, I'm Kurtis
 
-Data Analyst specializing in SQL, automation, and data quality.  
-Experience building ETL pipelines, validation workflows, and scalable data solutions across large datasets.
-
-## 🔧 Skills
-- **Languages:** SQL, Python, R  
-- **Tools:** PowerShell, Tableau, Excel, Power BI  
-- **Focus Areas:** ETL, Data Quality, Automation, Data Validation
-
-## 🚀 Featured Projects
-
-### County Recording Date Pipeline (SQL + PowerShell)
-Automated ETL pipeline that detects county record updates, processes documents with OCR, and extracts structured data.  
-- Built SQL queries to identify new records  
-- Automated workflows using PowerShell  
-- Reduced manual QA and improved data reliability  
-
-🔗 https://github.com/KBichard/county-recording-date-pipeline  
+Data Analyst focused on SQL, automation, and machine learning.  
+I build practical data pipelines that turn messy, real-world data into reliable outputs.
 
 ---
 
-### SQL Data Quality Audit (Missing Sequence Detection)
-T-SQL project identifying missing sequential records across large datasets.  
-- Multi-database querying and dynamic SQL  
-- Gap detection using set-based logic (EXCEPT)  
-- Designed for QA reporting and validation workflows  
+## What I Do
 
-🔗 https://github.com/KBichard/SQL-Missing-Maps-Master-Audit  
+I specialize in building end-to-end workflows that combine:
 
----
+- SQL (T-SQL, data validation, auditing)
+- Automation (PowerShell and Python)
+- Machine learning (classification, feature engineering)
+- OCR and unstructured data processing
 
-### Industry Analytics Dashboard (Tableau)
-Interactive dashboard analyzing internal control failures and earnings trends.  
-- Built visualizations including heat maps and time-series charts  
-- Transformed raw data into actionable insights  
-
-🔗 https://public.tableau.com/views/IndustryAnalytics_17631697369040/IndustryAnalytics  
+My focus is simple: reduce manual work, improve data quality, and make systems more reliable.
 
 ---
 
-## 📈 Experience Highlights
-- Automated data validation workflows across **80+ counties**  
-- Processed and audited **3,000–5,000+ records daily**  
-- Reduced manual QA through SQL-driven automation  
-- Built structured queries to support reporting and dashboards  
+## Featured Projects
+
+### Recording Date Extraction Pipeline (OCR + ML)
+End-to-end pipeline using Tesseract OCR, regex-based feature engineering, and logistic regression.  
+Implements a hybrid ML + rule-based system to reliably identify recording dates from noisy documents.
+
+https://github.com/KBichard/recording-date-extraction-pipeline
 
 ---
 
-## 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/kurtis-bichard/  
-- GitHub: https://github.com/KBichard  
+### Historical Record Recovery Audit (SQL + Automation)
+SQL and PowerShell workflows to identify missing records and support data recovery.  
+Designed to improve data completeness and reduce manual QA effort.
+
+https://github.com/KBichard/historical-record-recovery-audit
 
 ---
 
-Open to data analyst and analytics-focused roles (SQL, ETL, data quality, automation).
+### Missing Records Detection (T-SQL)
+Dynamic SQL solution for detecting gaps in sequential record systems across datasets.  
+Built for real-world data auditing and validation workflows.
+
+https://github.com/KBichard/SQL-Missing-Maps-Master-Audit
+
+---
+
+## Tech Stack
+
+Languages and Tools:
+- SQL (T-SQL)
+- Python
+- PowerShell
+
+Libraries:
+- pandas
+- scikit-learn
+- OpenCV
+- pytesseract
+
+Concepts:
+- Machine learning (logistic regression, feature engineering)
+- Data quality and validation
+- ETL / data pipelines
+- OCR and unstructured data processing
+
+---
+
+## What I’m Looking For
+
+Roles where I can apply and grow in:
+- Data analysis
+- Data-driven business analysis
+- Entry-level machine learning / data science
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/kurtis-bichard/  
+GitHub: https://github.com/KBichard
+
+---
+
+Most of my projects come from solving real-world problems with messy data, not clean datasets.
