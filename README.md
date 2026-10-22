@@ -1,4 +1,4 @@
-# Hi, I'm Kurtis Bichard 👋
+# Kurtis Bichard
 
 **Data Analyst | SQL & Business Intelligence | Python Automation | Applied Machine Learning**
 
@@ -6,7 +6,7 @@ I turn raw, sometimes messy operational data into reliable datasets, dashboards,
 
 I'm also pursuing an **M.S. in Data Science (Business Decisions)** at the **University of West Florida**, building on my professional analytics experience with statistical modeling and machine learning.
 
-## What I bring to the table
+## Areas of expertise
 
 - **SQL & BI development:** Write SQL queries and transformations against raw database data to build reporting datasets and dashboards from scratch.
 - **Data quality & automation:** Develop SQL, Python, and PowerShell workflows to investigate missing or misindexed records, validate archives, and reduce manual work.
@@ -53,7 +53,7 @@ A reusable approach to detecting gaps in sequential record identifiers across da
 
 I'm interested in **Data Analyst, BI Analyst, Analytics Engineer, Business Intelligence Engineer, and applied Data Science** opportunities. I'm open to **remote roles and relocation**.
 
-## Connect
+## Contact
 
 - **LinkedIn:** [linkedin.com/in/kurtis-bichard](https://www.linkedin.com/in/kurtis-bichard/)
 - **GitHub:** [github.com/KBichard](https://github.com/KBichard)
