@@ -30,6 +30,11 @@ A hybrid document-processing pipeline combining Tesseract OCR, date-candidate ex
 
 Graduate machine-learning coursework comparing Perceptron, Logistic Regression, SVM, Decision Tree, and Random Forest classifiers. The RBF SVM achieved **99.12% accuracy on a held-out validation set (113/114)**; the notebook also examines cross-validation, precision, recall, and a confusion matrix. *Educational analysis, not a clinical diagnostic system.*
 
+### [Forest Cover Type Prediction — Five-Model Comparison](https://github.com/KBichard/KBichard/tree/main/projects/forest-cover-type-prediction)
+**Python · scikit-learn · Random Forest · Decision Tree · Multiclass classification**
+
+Graduate machine-learning project predicting forest-cover classes using environmental and terrain features. Compares Perceptron, Logistic Regression, KNN, Decision Tree, and Random Forest classifiers with leakage-aware preprocessing, feature engineering, F1-based model selection, and class-level diagnostics. *Notebook code is published; scores are not claimed without saved execution outputs.*
+
 ### [Industry Analytics — Tableau Dashboard](https://github.com/KBichard/Industry-Analytics-Tableau)
 **Tableau · Data visualization · Financial analysis**
 
