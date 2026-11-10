@@ -1,0 +1,12 @@
+# Course competition data and generated output
+data/
+train.csv
+test.csv
+submission.csv
+# Python and Jupyter artifacts
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+venv/
+.env
