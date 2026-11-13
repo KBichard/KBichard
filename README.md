@@ -35,6 +35,11 @@ Graduate machine-learning coursework comparing Perceptron, Logistic Regression, 
 
 Graduate machine-learning project predicting forest-cover classes using environmental and terrain features. Compares Perceptron, Logistic Regression, KNN, Decision Tree, and Random Forest classifiers with leakage-aware preprocessing, feature engineering, F1-based model selection, and class-level diagnostics. *Notebook code is published; scores are not claimed without saved execution outputs.*
 
+### [Customer Churn Prediction — AUROC Model Comparison](https://github.com/KBichard/KBichard/tree/main/projects/customer-churn-prediction-auroc)
+**Python · scikit-learn · Logistic Regression · AUROC · Classification**
+
+Graduate machine learning project comparing five customer-churn classifiers with stratified validation, median imputation, categorical encoding, and train-only feature scaling. **Logistic Regression reached 0.8381 holdout AUROC** and produced probabilities for 1,409 unlabeled test customers. The project includes the executed notebook and a documented model comparison; *no Kaggle leaderboard score is claimed.*
+
 ### [Industry Analytics — Tableau Dashboard](https://github.com/KBichard/Industry-Analytics-Tableau)
 **Tableau · Data visualization · Financial analysis**
 
