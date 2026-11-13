@@ -1,0 +1,6 @@
+model,validation_auroc
+Logistic Regression,0.8381
+Decision Tree,0.8267
+Random Forest,0.8257
+K-Nearest Neighbors,0.7598
+Perceptron,0.7527
