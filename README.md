@@ -15,6 +15,11 @@ I'm also pursuing an **M.S. in Data Science (Business Decisions)** at the **Univ
 
 ## Featured projects
 
+### [Bellhaven CRM Reconciliation — Python Application & Review Dashboard](https://github.com/KBichard/bellhaven-crm-reconciliation)
+**Python · Streamlit · REST APIs · SQLite · Data quality · Automated testing**
+
+Built a human-in-the-loop reconciliation application that compares a fictional senior-care operator's website listings against CRM account records. The workflow collects and normalizes records, scores potential matches, flags duplicates and ownership changes, and presents evidence-backed proposals for approval or rejection. The local assessment run recorded **20 applied, API-verified changes**, with **12 offline tests passing**. Read-only scheduled checks, financial-history safeguards, and an audit trail make the workflow reviewable and repeatable. *Portfolio assessment using a fictional CRM sandbox; not a production deployment.*
+
 ### [Historical Record Recovery & Validation](https://github.com/KBichard/historical-record-recovery-audit)
 **SQL · PowerShell · Data quality**
 
